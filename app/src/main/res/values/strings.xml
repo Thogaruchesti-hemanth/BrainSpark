@@ -3,4 +3,6 @@
     <string name="text_brainspark">BrainSpark</string>
     <string name="text_back_arrow">back arrow</string>
     <string name="text_next">Next</string>
+    <string name="text_quiz_completed">Quiz Completed!</string>
+    <string name="text_restart_quiz">Restart Quiz</string>
 </resources>
